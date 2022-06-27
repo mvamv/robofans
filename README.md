@@ -8,8 +8,8 @@
 
 Αισθητήρες μέτρησης υγρασίας χώματος, συνδεδεμένους με τροφοδοτούμενους από μπαταρίες μικροεπεξεργαστές ESP32 με firmware TASMOTA για την εύρυθμη επικοινωνία μέσω του πρωτοκόλλου MQTT.
 
-![tasmota logo](https://user-images.githubusercontent.com/99434931/164202307-7b28359d-5741-40cf-bac4-1940b43bac7a.png)
+<center>![tasmota logo](https://user-images.githubusercontent.com/99434931/164202307-7b28359d-5741-40cf-bac4-1940b43bac7a.png)</center>
 
 Raspberry Pi με λειτουργικό σύστημα Home Assistant παραμετροποιημένο ως MQTT server για τη συλλογή και την περαιτέρω δημοσίευση των δεδομένων από τους αισθητήρες.
 
-![ha logo](https://user-images.githubusercontent.com/99434931/164203535-b7f3b691-02e9-493a-82ef-34072d59f442.png)
+<center>![ha logo](https://user-images.githubusercontent.com/99434931/164203535-b7f3b691-02e9-493a-82ef-34072d59f442.png)</center>
